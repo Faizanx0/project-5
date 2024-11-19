@@ -2,7 +2,7 @@
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
-    font-family: gilroy ;
+    font-family: 'gilroy' ;
 }
 
 html, body{
@@ -112,7 +112,7 @@ nav h2{
 }
 
 #elem1 h1{
-    font-family: monument;
+    font-family:"Monument Extended Bold";
     font-size: 40px;
 }
 
@@ -240,7 +240,7 @@ nav h2{
 }
 
 #box1 h2{
-    font-family:monument;
+    font-family:"Monument Extended Bold";
     font-size: 40px;
     font-weight: 600;
     word-spacing: 10px;
@@ -347,7 +347,7 @@ nav h2{
 
 #group4>h1{
      font-size: 40px;
-     font-family: monument;
+     font-family: "Monument Extended Bold";
      text-align: center;
 }
 
@@ -446,7 +446,7 @@ nav h2{
 }
 
 #right-up h1{
-    font-family: monument;
+    font-family:"Monument Extended Bold";
     font-size: 40px;
     font-weight: 900;
 }
@@ -488,7 +488,7 @@ nav h2{
     display:inline-block;
     font-size: 4vw;
     font-weight: 900;
-    font-family: monument;
+    font-family:"Monument Extended Bold";
     -webkit-text-stroke: 2px black;
     color: transparent;
     text-transform: uppercase;
@@ -587,7 +587,7 @@ nav h2{
 
 #blog h1{
     width: fit-content;
-    font-family: monument;
+    font-family:"Monument Extended Bold";
     font-size: 40px;
 }
 
@@ -648,7 +648,7 @@ footer{
 
 footer h1{
     font-size: 50px;
-    font-family: monument;
+    font-family: "Monument Extended Bold";
     border-right: 2px solid black; 
     height: 100%;
     width: 25%;
